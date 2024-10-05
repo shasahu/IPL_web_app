@@ -1,0 +1,62 @@
+IPL Analysis
+--------------------------
+This is a highlevel description which will naturally evolve. It is like a goal post, and try to explore and build parts that you find more exciting, the full system need not be complete. But it is in a competition mode with community evaluation.
+
+
+Basic problem statement:
+........................
+1. You are given IPL dataset.
+2. This dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively (you are also eligible to add more data).
+3. You need to store data in database and read from there.
+2. You need to do the relevant preprocessing and analysis on the given data and show the visualization of the outputs.
+3. You need to create a dashboard that shows all the visualization part.
+4. Users need to login and can see the different visualizations.
+5. You need to do the analysis of data and answer the following questions:-
+	5.1. For each team you need to give the stadium name(venue) where that team have won the maximum match?
+	5.2. For anyone match, you need to show the total runs scored by each batsman in that match and how they dismissed.
+	5.3. For anyone match, you need to show the total wicktes taken by all bowlers in that match.
+	5.4. For year 2019, you need to show top 10 batsman(rank them according to their total runs scored).
+	5.5. For year 2019, you need to show top 10 bowlers(rank them according to their total wickets taken).
+	5.6. You need to show that does winning toss increases the chance of victory.
+	5.7. For any 10 batsman, you need to show, against which bowler he got out most number of time.
+6. After login, users will be provided option to choose between bowlers or batsman to show the above stats.
+
+
+
+
+Technical aspects that must be present
+.......................................  
+1. User login (for website)
+2. Cleaning and preprocessing of data (if required)
+3. Visualizing the output
+4. Statistical analysis 
+5. User interaction
+
+
+
+External tools and libraries can be used
+........................................
+1. For visualization and user input 
+2. For website (if done)
+3. For Dashboard
+4. For any other tools we need to discuss and check as they may depend on the approach of the teams
+
+
+
+
+Deliverables
+............
+1. System (website is optional but contain bonus)
+2. Report (Follow software engineering priciples. Starts from requirement then design, then develop, testing and finally integration and deployment)
+3. Demo (can be a video or slides containing most important parts of the project, this may contain non-technical aspects too.)
+Remember that the proportion of content on various parts in report and demo determine the focus and effort of the teams.
+
+Evaluation
+..............
+1. Demo 10  
+2. Report 5
+3. Interview 5 (individual)
+
+Scores will be collected from all other teams, external judge, and instructor on the demo part and then a weighted average will be calculated with weights as: instructor 0.5, other teams 0.3 external 0.2
+  
+
