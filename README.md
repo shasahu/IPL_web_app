@@ -51,10 +51,10 @@ web app.
 
 # Some Examples
 
-<img width="464" alt="Capture1" src="https://github.com/user-attachments/assets/677df2ba-e109-4f1d-b375-63150f7f9b54">
+<img width="464" alt="Capture1" src="https://github.com/user-attachments/assets/5634a6da-4e7a-4b8e-be28-8cc8df63c4f0">
+<img width="467" alt="Capture2" src="https://github.com/user-attachments/assets/23db9d24-1f81-48e4-bea1-dc3d702fccac">
+<img width="368" alt="Capture3" src="https://github.com/user-attachments/assets/c2a40517-3cda-487e-8a74-76d33072b2fb">
 
 
-<img width="467" alt="Capture2" src="https://github.com/user-attachments/assets/b01a53ac-1d1a-4c9f-92c0-effab81bcbd3">
 
 
-<img width="368" alt="Capture3" src="https://github.com/user-attachments/assets/32a1f8c2-02a6-4f8c-922d-a347087380dd">
